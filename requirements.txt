@@ -1,0 +1,10 @@
+discord
+youtube_dl
+youtube-dl
+ffmpeg
+asyncio
+ffmpeg-python
+discord.py[voice]
+PyNaCl
+colorlog
+pip
