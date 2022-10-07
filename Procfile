@@ -1,1 +1,1 @@
-worker: python Acesters.py
+worker: python Inference.py
